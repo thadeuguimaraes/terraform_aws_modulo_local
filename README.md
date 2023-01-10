@@ -10,7 +10,7 @@ Este projeto é um módulo de Terraform que permite fazer o deploy de uma VM na 
 
 ## Utilização
 
-1. Clone o repositório para a sua máquina local: git clone https://github.com/seu-usuario/terraform_aws_modulo-local.git
+1. Clone o repositório para a sua máquina local: `git clone https://github.com/Thadeu84/terraform_aws_modulo_local.git`
 2. Acesse a pasta do projeto: cd terraform_aws_modulo-local
 3. Crie um arquivo chamado terraform.tfvars e adicione as seguintes variáveis:
 
